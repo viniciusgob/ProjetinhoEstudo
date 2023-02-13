@@ -1,6 +1,6 @@
 package ProjetinhoEstudo.introducao;
 
-public class Aula05EstruturasCondicionas02 {
+public class Aula06EstruturasCondicionas02 {
     public static void main(String[] args) {
         //idade < 15 categoria infantil,
         //idade >= 15 && idade < 18 juvenil,

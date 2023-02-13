@@ -7,7 +7,7 @@ Eu <nome>, morando no endereco <endereco>,
 confirmo que recebi o salário de <salario>, na data <data>
  */
 
-public class TiposPrimitivosExercicio3 {
+public class Aula03TiposPrimitivosExercicio {
     public static void main(String[] args) {
         String nome = "Vinicius";
         String endereco = "Rua SM3 QD C LT 10";

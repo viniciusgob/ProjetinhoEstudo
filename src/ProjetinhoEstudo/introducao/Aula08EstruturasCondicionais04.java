@@ -1,6 +1,6 @@
 package ProjetinhoEstudo.introducao;
 
-public class Aula08EstruturasCondicionaisExercicio {
+public class Aula08EstruturasCondicionais04 {
     public static void main(String[] args) {
         //$ 0 até 34,712 = 9.78%
         //$ 34,713 até 68,587 = 37.35%

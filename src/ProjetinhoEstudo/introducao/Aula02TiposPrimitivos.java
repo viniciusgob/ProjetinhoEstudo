@@ -1,6 +1,6 @@
 package ProjetinhoEstudo.introducao;
 
-public class TiposPrimitivos2 {
+public class Aula02TiposPrimitivos {
     //int, double, float, char, byte, short, long, booleanv
     public static void main(String[] args) {
         int idade = 10;

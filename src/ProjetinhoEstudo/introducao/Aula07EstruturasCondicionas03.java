@@ -1,6 +1,6 @@
 package ProjetinhoEstudo.introducao;
 
-public class Aula05EstruturasCondicionas03 {
+public class Aula07EstruturasCondicionas03 {
     public static void main(String[] args) {
         //Dizimar se salario > 5000
         double salario = 6000;
