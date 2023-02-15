@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8547dd71-24ae-489a-ac95-793a2bd3f6a4" name="Changes" comment="comit">
-      <change afterPath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula11EstruturasDeRepeticao01.java" afterDir="false" />
+    <list default="true" id="8547dd71-24ae-489a-ac95-793a2bd3f6a4" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula12EstruturasDeRepeticaoExe02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +52,7 @@
       <recent name="C:\Users\Vinicius Barros\IdeaProjects\ProjetinhoEstudo\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula11EstruturasDeRepeticao01">
-    <configuration name="Aula07EstruturasCondicionas03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula07EstruturasCondicionas03" />
-      <module name="ProjetinhoEstudo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Aula12EstruturasDeRepeticaoExe02">
     <configuration name="Aula08EstruturasCondicionais04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula08EstruturasCondicionais04" />
       <module name="ProjetinhoEstudo" />
@@ -118,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula12EstruturasDeRepeticaoExe02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula12EstruturasDeRepeticaoExe02" />
+      <module name="ProjetinhoEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Introducao" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Introducao" />
       <module name="ProjetinhoEstudo" />
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula12EstruturasDeRepeticaoExe02" />
         <item itemvalue="Application.Aula11EstruturasDeRepeticao01" />
         <item itemvalue="Application.Aula10EstruturasCondicionais06" />
         <item itemvalue="Application.Aula09EstruturasCondicionais05" />
         <item itemvalue="Application.Aula08EstruturasCondicionais04" />
-        <item itemvalue="Application.Aula07EstruturasCondicionas03" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676322938017</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1676324457346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676324457346</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +188,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
