@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8547dd71-24ae-489a-ac95-793a2bd3f6a4" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula13EstruturasDeRepeticao03.java" afterDir="false" />
+    <list default="true" id="8547dd71-24ae-489a-ac95-793a2bd3f6a4" name="Changes" comment="Aula 15 commit">
+      <change afterPath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula17Arrays02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula12EstruturasDeRepeticaoExe02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula12EstruturasDeRepeticaoExe02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,61 +52,61 @@
       <recent name="C:\Users\Vinicius Barros\IdeaProjects\ProjetinhoEstudo\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula13EstruturasDeRepeticao03">
-    <configuration name="Aula09EstruturasCondicionais05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula09EstruturasCondicionais05" />
-      <module name="ProjetinhoEstudo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula10EstruturasCondicionais06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula10EstruturasCondicionais06" />
-      <module name="ProjetinhoEstudo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula11EstruturasDeRepeticao01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula11EstruturasDeRepeticao01" />
-      <module name="ProjetinhoEstudo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula12EstruturasDeRepeticaoExe02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula12EstruturasDeRepeticaoExe02" />
-      <module name="ProjetinhoEstudo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Aula17Arrays02">
     <configuration name="Aula13EstruturasDeRepeticao03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula13EstruturasDeRepeticao03" />
+      <module name="ProjetinhoEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula14EstruturasDeRepeticaoExe04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula14EstruturasDeRepeticaoExe04" />
+      <module name="ProjetinhoEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula15EstruturasDeRepeticao05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula15EstruturasDeRepeticao05" />
+      <module name="ProjetinhoEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula16Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula16Arrays01" />
+      <module name="ProjetinhoEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula17Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula17Arrays02" />
       <module name="ProjetinhoEstudo" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula17Arrays02" />
+        <item itemvalue="Application.Aula16Arrays01" />
+        <item itemvalue="Application.Aula15EstruturasDeRepeticao05" />
+        <item itemvalue="Application.Aula14EstruturasDeRepeticaoExe04" />
         <item itemvalue="Application.Aula13EstruturasDeRepeticao03" />
-        <item itemvalue="Application.Aula12EstruturasDeRepeticaoExe02" />
-        <item itemvalue="Application.Aula11EstruturasDeRepeticao01" />
-        <item itemvalue="Application.Aula10EstruturasCondicionais06" />
-        <item itemvalue="Application.Aula09EstruturasCondicionais05" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +179,49 @@
       <option name="project" value="LOCAL" />
       <updated>1676474778591</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1676997662689</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676997662689</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1676997981135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676997981135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Aula 14 commit">
+      <created>1677009527395</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677009527395</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Aula 14 commit">
+      <created>1677010236323</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677010236323</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Aula 15 commit">
+      <created>1677010299014</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677010299014</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Aula 15 commit">
+      <created>1677012199764</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677012199764</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +238,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comit" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Aula 14 commit" />
+    <MESSAGE value="Aula 15 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 15 commit" />
   </component>
 </project>
