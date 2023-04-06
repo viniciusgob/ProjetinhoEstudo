@@ -2,6 +2,7 @@ package ProjetinhoEstudo.introducao;
 
 public class Aula10EstruturasCondicionais06 {
     public static void main(String[] args) {
+        //video: youtube.com/watch?v=GDAgMb9amow&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=27
         //Dados os valores de 1 a 7, imprima se é dia util ou fds, considerando 1 como domingo.
         byte dia = 3;
         switch(dia){

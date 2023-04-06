@@ -2,6 +2,7 @@ package ProjetinhoEstudo.introducao;
 
 public class Aula09EstruturasCondicionais05 {
     public static void main(String[] args) {
+        // VIDEO AULA: youtube.com/watch?v=AYMtqJSrQTU&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=26
         //imprima o dia da semana, considerando 1 como domingo
         byte dia = 6;
         // char, int, byte, short, enum, String

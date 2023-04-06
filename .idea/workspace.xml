@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8547dd71-24ae-489a-ac95-793a2bd3f6a4" name="Changes" comment="Aula 15 commit">
-      <change afterPath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula17Arrays02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula09EstruturasCondicionais05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula09EstruturasCondicionais05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula10EstruturasCondicionais06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetinhoEstudo/introducao/Aula10EstruturasCondicionais06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vinicius Barros/IdeaProjects/ProjetinhoEstudo/src&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Vinicius Barros/IdeaProjects/ProjetinhoEstudo/src",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Vinicius Barros\IdeaProjects\ProjetinhoEstudo\src" />
@@ -52,35 +54,9 @@
       <recent name="C:\Users\Vinicius Barros\IdeaProjects\ProjetinhoEstudo\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula17Arrays02">
-    <configuration name="Aula13EstruturasDeRepeticao03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula13EstruturasDeRepeticao03" />
-      <module name="ProjetinhoEstudo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula14EstruturasDeRepeticaoExe04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula14EstruturasDeRepeticaoExe04" />
-      <module name="ProjetinhoEstudo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjetinhoEstudo.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula15EstruturasDeRepeticao05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula15EstruturasDeRepeticao05" />
+  <component name="RunManager" selected="Application.Aula09EstruturasCondicionais05">
+    <configuration name="Aula09EstruturasCondicionais05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetinhoEstudo.introducao.Aula09EstruturasCondicionais05" />
       <module name="ProjetinhoEstudo" />
       <extension name="coverage">
         <pattern>
@@ -125,6 +101,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="ProjetinhoEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main2" />
+      <module name="ProjetinhoEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test1" />
       <module name="ProjetinhoEstudo" />
@@ -141,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Aula09EstruturasCondicionais05" />
         <item itemvalue="Application.Aula17Arrays02" />
         <item itemvalue="Application.Aula16Arrays01" />
-        <item itemvalue="Application.Aula15EstruturasDeRepeticao05" />
-        <item itemvalue="Application.Aula14EstruturasDeRepeticaoExe04" />
-        <item itemvalue="Application.Aula13EstruturasDeRepeticao03" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677012199764</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Aula 15 commit">
+      <created>1677013526086</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013526086</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
