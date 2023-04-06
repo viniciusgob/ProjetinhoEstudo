@@ -2,6 +2,7 @@ package ProjetinhoEstudo.introducao;
 
 public class Aula07EstruturasCondicionas03 {
     public static void main(String[] args) {
+        //video: youtube.com/watch?v=gU-qCpBC5jk&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=23
         //Dizimar se salario > 5000
         double salario = 6000;
         String mensagemDoar = "Consigo dar o dizimo de 500";
